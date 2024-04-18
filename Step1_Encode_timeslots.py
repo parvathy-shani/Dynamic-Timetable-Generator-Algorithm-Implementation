@@ -49,12 +49,12 @@ time_slots = {}  #empty dictionary to store the timeslot with its code sample:'M
 gene_count = 1  #start the gene_count from 1
 for day, slots in timeslots.items(): #day contains the day name, say Monday, slots contains the timeslots for the entire day i.e., 09:00 AM to 04:00 PM
     for slot in slots: #slots contains the hourly timing
-        time_slots[f'{day} {slot}'] = "G"+str(gene_count) #stores into dictionary
+        time_slots[f'G{gene_count}'] =  f'{day} {slot}'#stores into dictionary
         gene_count += 1 #increment the gene_count
 
 # Stroing the output
 
 file_path = "timeslots.json"     #output file to store the output
 with open(file_path, "w") as json_file:  #open the file to write the output
-        json.dump(time_slots, json_file) #storing the timeslots into json file
+        json.dump(time_slots, json_file, indent=4) #storing the timeslots into json file
 
