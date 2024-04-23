@@ -41,6 +41,7 @@ for key in batches_data.keys():
             chromosome_collection.append(chromosome)
     elite_group[key] = chromosome_collection
     print(key, len(elite_group[key]))
+
 # Save chromosomes to a new file
 file_path = "elite_population.json"
 with open(file_path, "w") as json_file:
