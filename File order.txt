@@ -1,0 +1,39 @@
+1. Encode_timesltes.py
+	output: encode_timeslots_output.txt
+2. Encode_rooms.py
+	output: encode_rooms_output.txt
+3. Encode_packets.py
+	output: encode_packets_output.txt
+4. Encode_leturers.py
+	output: encode_lecturers_output.txt
+5. Encode_courses.py
+	output: encode_courses_output.txt
+6. Encode_events.py
+	output: encode_events_output.txt
+7. Combined_data.py
+	output: combined_data.json
+8. Format_events.py
+	output: format_events_output.txt
+9. Encode_pairs.py
+	output: encode_pairs_output.txt
+10. Format_paris.py
+	output: format_pairs_output.txt
+11. Chromosome_generation.py
+	output: initial_population_S2C.txt
+	output: initial_population_S2D.txt
+	output: initial_population_S4C.txt
+	output: initial_population_S4D.txt
+	output: initial_population_S6C.txt
+	output: initial_population_S6D.txt
+	output: initial_population_S8C.txt
+	output: initial_population_S8D.txt
+12. Format_initial_population.py
+	output: formatted_initial_population_S2C.txt
+	output: formatted_initial_population_S2D.txt
+	output: formatted_initial_population_S4C.txt
+	output: formatted_initial_population_S4D.txt
+	output: formatted_initial_population_S6C.txt
+	output: formatted_initial_population_S6D.txt
+	output: formatted_initial_population_S8C.txt
+	output: formatted_initial_population_S8D.txt
+13. Hard Constraints
