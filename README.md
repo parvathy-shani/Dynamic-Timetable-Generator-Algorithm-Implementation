@@ -7,10 +7,8 @@ Welcome to the exploratory repository for the Dynamic Timetable Generator. This 
 2. [Key Methods Explored](#key-methods-explored)
 3. [Installation](#installation)
 4. [Configuration](#configuration)
-5. [Usage](#usage)
-6. [Results and Learnings](#results-and-learnings)
-7. [Contributing](#contributing)
-8. [License](#license)
+5. [Results and Learnings](#results-and-learnings)
+6. [Contributing](#contributing)
 
 ## Project Overview
 
