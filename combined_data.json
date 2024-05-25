@@ -1,0 +1,1346 @@
+[
+    {
+        "Course": "Programming in C",
+        "Course code": "EST102",
+        "Sem code": "F",
+        "lecture/week": 2,
+        "tutorial/week": 1,
+        "practical/week": 2,
+        "allotted lecturers": [
+            "Gopakumar G(lecture)",
+            "Ameena A(practical)",
+            "Alka Vijay(practical)",
+            "Shyama Das(tutorial)"
+        ],
+        "batches": "S2C",
+        "lecturers": [
+            {
+                "teacher_name": "Gopakumar G",
+                "teacher_code": "CSAP01n"
+            },
+            {
+                "teacher_name": "Ameena A",
+                "teacher_code": "CSAA02n"
+            },
+            {
+                "teacher_name": "Alka Vijay",
+                "teacher_code": "CSAA04n"
+            },
+            {
+                "teacher_name": "Shyama Das",
+                "teacher_code": "CSPP05f"
+            }
+        ]
+    },
+    {
+        "Course": "Programming in C",
+        "Course code": "EST102",
+        "Sem code": "F",
+        "lecture/week": 2,
+        "tutorial/week": 1,
+        "practical/week": 2,
+        "allotted lecturers": [
+            "Manju S Nair(lecture)",
+            "Shiny B(practical)",
+            "Arathy UP(practical)",
+            "Betty James(tutorial)"
+        ],
+        "batches": "S2D",
+        "lecturers": [
+            {
+                "teacher_name": "Manju S Nair",
+                "teacher_code": "CSAA03f"
+            },
+            {
+                "teacher_name": "Shiny B",
+                "teacher_code": "CSAA06n"
+            },
+            {
+                "teacher_name": "Arathy UP",
+                "teacher_code": "CSAA08n"
+            },
+            {
+                "teacher_name": "Betty James",
+                "teacher_code": "CSAA16n"
+            }
+        ]
+    },
+    {
+        "Course": "Graph Theory",
+        "Course code": "MAT206",
+        "Sem code": "A",
+        "lecture/week": 3,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "OD(lecture)",
+            "OD(tutorial)"
+        ],
+        "batches": "S4C",
+        "lecturers": [
+            {
+                "teacher_name": "OD",
+                "teacher_code": null
+            },
+            {
+                "teacher_name": "OD",
+                "teacher_code": null
+            }
+        ]
+    },
+    {
+        "Course": "Graph Theory",
+        "Course code": "MAT206",
+        "Sem code": "A",
+        "lecture/week": 3,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "OD(lecture)",
+            "OD(tutorial)"
+        ],
+        "batches": "S4D",
+        "lecturers": [
+            {
+                "teacher_name": "OD",
+                "teacher_code": null
+            },
+            {
+                "teacher_name": "OD",
+                "teacher_code": null
+            }
+        ]
+    },
+    {
+        "Course": "Computer Organization and Architecture",
+        "Course code": "CST202",
+        "Sem code": "B",
+        "lecture/week": 3,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Angel Thankam Thomas(lecture)",
+            "Angel Thankam Thomas(tutorial)"
+        ],
+        "batches": "S4C",
+        "lecturers": [
+            {
+                "teacher_name": "Angel Thankam Thomas",
+                "teacher_code": "CSAA09n"
+            },
+            {
+                "teacher_name": "Angel Thankam Thomas",
+                "teacher_code": "CSAA09n"
+            }
+        ]
+    },
+    {
+        "Course": "Computer Organization and Architecture",
+        "Course code": "CST202",
+        "Sem code": "B",
+        "lecture/week": 3,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Gopakumar G(lecture)",
+            "Gopakumar G(tutorial)"
+        ],
+        "batches": "S4D",
+        "lecturers": [
+            {
+                "teacher_name": "Gopakumar G",
+                "teacher_code": "CSAP01n"
+            },
+            {
+                "teacher_name": "Gopakumar G",
+                "teacher_code": "CSAP01n"
+            }
+        ]
+    },
+    {
+        "Course": "Database Management Systems",
+        "Course code": "CST204",
+        "Sem code": "C",
+        "lecture/week": 3,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Rosy K Philp(lecture)",
+            "Rosy K Philp(tutorial)"
+        ],
+        "batches": "S4C",
+        "lecturers": [
+            {
+                "teacher_name": "Rosy K Philp",
+                "teacher_code": "CSAA10n"
+            },
+            {
+                "teacher_name": "Rosy K Philp",
+                "teacher_code": "CSAA10n"
+            }
+        ]
+    },
+    {
+        "Course": "Database Management Systems",
+        "Course code": "CST204",
+        "Sem code": "C",
+        "lecture/week": 3,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Rosy K Philp(lecture)",
+            "Rosy K Philp(tutorial)"
+        ],
+        "batches": "S4D",
+        "lecturers": [
+            {
+                "teacher_name": "Rosy K Philp",
+                "teacher_code": "CSAA10n"
+            },
+            {
+                "teacher_name": "Rosy K Philp",
+                "teacher_code": "CSAA10n"
+            }
+        ]
+    },
+    {
+        "Course": "Operating Systems",
+        "Course code": "CST206",
+        "Sem code": "D",
+        "lecture/week": 3,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Jithy John(lecture)",
+            "Jithy John(tutorial)"
+        ],
+        "batches": "S4C",
+        "lecturers": [
+            {
+                "teacher_name": "Jithy John",
+                "teacher_code": "CSAA11f"
+            },
+            {
+                "teacher_name": "Jithy John",
+                "teacher_code": "CSAA11f"
+            }
+        ]
+    },
+    {
+        "Course": "Operating Systems",
+        "Course code": "CST206",
+        "Sem code": "D",
+        "lecture/week": 3,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Jithy John(lecture)",
+            "Jithy John(tutorial)"
+        ],
+        "batches": "S4D",
+        "lecturers": [
+            {
+                "teacher_name": "Jithy John",
+                "teacher_code": "CSAA11f"
+            },
+            {
+                "teacher_name": "Jithy John",
+                "teacher_code": "CSAA11f"
+            }
+        ]
+    },
+    {
+        "Course": "Constitution of India",
+        "Course code": "MCN202",
+        "Sem code": "F",
+        "lecture/week": 2,
+        "tutorial/week": 0,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "OD(lecture)"
+        ],
+        "batches": "S4C",
+        "lecturers": [
+            {
+                "teacher_name": "OD",
+                "teacher_code": null
+            }
+        ]
+    },
+    {
+        "Course": "Constitution of India",
+        "Course code": "MCN202",
+        "Sem code": "F",
+        "lecture/week": 2,
+        "tutorial/week": 0,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "OD(lecture)"
+        ],
+        "batches": "S4D",
+        "lecturers": [
+            {
+                "teacher_name": "OD",
+                "teacher_code": null
+            }
+        ]
+    },
+    {
+        "Course": "Design and Engineering",
+        "Course code": "EST200",
+        "Sem code": "E",
+        "lecture/week": 2,
+        "tutorial/week": 0,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Sabhana Mol S(lecture)"
+        ],
+        "batches": "S4D",
+        "lecturers": [
+            {
+                "teacher_name": "Sabhana Mol S",
+                "teacher_code": "CSAA12n"
+            }
+        ]
+    },
+    {
+        "Course": "Design and Engineering",
+        "Course code": "EST200",
+        "Sem code": "E",
+        "lecture/week": 2,
+        "tutorial/week": 0,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Sreelekshmi K R(lecture)"
+        ],
+        "batches": "S4C",
+        "lecturers": [
+            {
+                "teacher_name": "Sreelekshmi K R",
+                "teacher_code": "CSAA07n"
+            }
+        ]
+    },
+    {
+        "Course": "Digital Lab",
+        "Course code": "CSL202",
+        "Sem code": "S",
+        "lecture/week": 0,
+        "tutorial/week": 0,
+        "practical/week": 2,
+        "allotted lecturers": [
+            "OD(Practical)"
+        ],
+        "batches": "S4C",
+        "lecturers": [
+            {
+                "teacher_name": "OD",
+                "teacher_code": null
+            }
+        ]
+    },
+    {
+        "Course": "Digital Lab",
+        "Course code": "CSL202",
+        "Sem code": "S",
+        "lecture/week": 0,
+        "tutorial/week": 0,
+        "practical/week": 2,
+        "allotted lecturers": [
+            "OD(Practical)"
+        ],
+        "batches": "S4D",
+        "lecturers": [
+            {
+                "teacher_name": "OD",
+                "teacher_code": null
+            }
+        ]
+    },
+    {
+        "Course": "Operating Systems Lab",
+        "Course code": "CSL204",
+        "Sem code": "T",
+        "lecture/week": 0,
+        "tutorial/week": 0,
+        "practical/week": 2,
+        "allotted lecturers": [
+            "Jyothirmayi Devi(Practical)/Vishnu S Kumar(Practical)"
+        ],
+        "batches": "S4C",
+        "lecturers": [
+            {
+                "teacher_name": "Jyothirmayi Devi",
+                "teacher_code": "CSAA13f"
+            }
+        ]
+    },
+    {
+        "Course": "Operating Systems Lab",
+        "Course code": "CSL204",
+        "Sem code": "T",
+        "lecture/week": 0,
+        "tutorial/week": 0,
+        "practical/week": 2,
+        "allotted lecturers": [
+            "Jithy John(Practical)/Angel Thankam Thomas(Practical)"
+        ],
+        "batches": "S4D",
+        "lecturers": [
+            {
+                "teacher_name": "Jithy John",
+                "teacher_code": "CSAA11f"
+            }
+        ]
+    },
+    {
+        "Course": "Mathematics for Machine Learning",
+        "Course code": "CST284",
+        "Sem code": "Minor",
+        "lecture/week": 3,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Leya G(lecture)",
+            "Leya G(tutorial)"
+        ],
+        "batches": "S4C",
+        "lecturers": [
+            {
+                "teacher_name": "Leya G",
+                "teacher_code": "CSAA15n"
+            },
+            {
+                "teacher_name": "Leya G",
+                "teacher_code": "CSAA15n"
+            }
+        ]
+    },
+    {
+        "Course": "Number Theory",
+        "Course code": "CST292",
+        "Sem code": "Minor",
+        "lecture/week": 3,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Betty James(lecture)",
+            "Betty James(tutorial)"
+        ],
+        "batches": "S4C",
+        "lecturers": [
+            {
+                "teacher_name": "Betty James",
+                "teacher_code": "CSAA16n"
+            },
+            {
+                "teacher_name": "Betty James",
+                "teacher_code": "CSAA16n"
+            }
+        ]
+    },
+    {
+        "Course": "Computational Fundamentals for Machine Learning",
+        "Course code": "CST284",
+        "Sem code": "Honours",
+        "lecture/week": 3,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Sulaja Sanal(lecture)",
+            "Sulaja Sanal(tutorial)"
+        ],
+        "batches": "S4C",
+        "lecturers": [
+            {
+                "teacher_name": "Sulaja Sanal",
+                "teacher_code": "CSAA17n"
+            },
+            {
+                "teacher_name": "Sulaja Sanal",
+                "teacher_code": "CSAA17n"
+            }
+        ]
+    },
+    {
+        "Course": "Compiler Design",
+        "Course code": "CST302",
+        "Sem code": "A",
+        "lecture/week": 3,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Nasseena N(lecture)",
+            "Nasseena N(tutorial)"
+        ],
+        "batches": "S6C",
+        "lecturers": [
+            {
+                "teacher_name": "Nasseena N",
+                "teacher_code": "CSAA18n"
+            },
+            {
+                "teacher_name": "Nasseena N",
+                "teacher_code": "CSAA18n"
+            }
+        ]
+    },
+    {
+        "Course": "Compiler Design",
+        "Course code": "CST302",
+        "Sem code": "A",
+        "lecture/week": 3,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Nasseena N(lecture)",
+            "Nasseena N(tutorial)"
+        ],
+        "batches": "S6D",
+        "lecturers": [
+            {
+                "teacher_name": "Nasseena N",
+                "teacher_code": "CSAA18n"
+            },
+            {
+                "teacher_name": "Nasseena N",
+                "teacher_code": "CSAA18n"
+            }
+        ]
+    },
+    {
+        "Course": "Computer Graphics and Image Processing",
+        "Course code": "CST304",
+        "Sem code": "B",
+        "lecture/week": 3,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Jyothirmayi Devi(lecture)",
+            "Jyothirmayi Devi(tutorial)"
+        ],
+        "batches": "S6D",
+        "lecturers": [
+            {
+                "teacher_name": "Jyothirmayi Devi",
+                "teacher_code": "CSAA13f"
+            },
+            {
+                "teacher_name": "Jyothirmayi Devi",
+                "teacher_code": "CSAA13f"
+            }
+        ]
+    },
+    {
+        "Course": "Computer Graphics and Image Processing",
+        "Course code": "CST304",
+        "Sem code": "B",
+        "lecture/week": 3,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Jyothirmayi Devi(lecture)",
+            "Jyothirmayi Devi(tutorial)"
+        ],
+        "batches": "S6C",
+        "lecturers": [
+            {
+                "teacher_name": "Jyothirmayi Devi",
+                "teacher_code": "CSAA13f"
+            },
+            {
+                "teacher_name": "Jyothirmayi Devi",
+                "teacher_code": "CSAA13f"
+            }
+        ]
+    },
+    {
+        "Course": "Algorithm Analysis and Design",
+        "Course code": "CST306",
+        "Sem code": "C",
+        "lecture/week": 3,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Sreelekshmi K R(lecture)",
+            "Sreelekshmi K R(tutorial)"
+        ],
+        "batches": "S6C",
+        "lecturers": [
+            {
+                "teacher_name": "Sreelekshmi K R",
+                "teacher_code": "CSAA07n"
+            },
+            {
+                "teacher_name": "Sreelekshmi K R",
+                "teacher_code": "CSAA07n"
+            }
+        ]
+    },
+    {
+        "Course": "Algorithm Analysis and Design",
+        "Course code": "CST306",
+        "Sem code": "C",
+        "lecture/week": 3,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Alka Vijay(lecture)",
+            "Alka Vijay(tutorial)"
+        ],
+        "batches": "S6D",
+        "lecturers": [
+            {
+                "teacher_name": "Alka Vijay",
+                "teacher_code": "CSAA04n"
+            },
+            {
+                "teacher_name": "Alka Vijay",
+                "teacher_code": "CSAA04n"
+            }
+        ]
+    },
+    {
+        "Course": "Foundations of Machine Learning",
+        "Course code": "CST312",
+        "Sem code": "D-Elective1",
+        "lecture/week": 2,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Sulaja Sanal(lecture)",
+            "Sulaja Sanal(tutorial)"
+        ],
+        "batches": "S6C",
+        "lecturers": [
+            {
+                "teacher_name": "Sulaja Sanal",
+                "teacher_code": "CSAA17n"
+            },
+            {
+                "teacher_name": "Sulaja Sanal",
+                "teacher_code": "CSAA17n"
+            }
+        ]
+    },
+    {
+        "Course": "Foundations of Security in Computing",
+        "Course code": "CST332",
+        "Sem code": "D-Elective1",
+        "lecture/week": 2,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Ajoy Thomas(lecture)",
+            "Ajoy Thomas(tutorial)"
+        ],
+        "batches": "S6C",
+        "lecturers": [
+            {
+                "teacher_name": "Ajoy Thomas",
+                "teacher_code": "CSAA19n"
+            },
+            {
+                "teacher_name": "Ajoy Thomas",
+                "teacher_code": "CSAA19n"
+            }
+        ]
+    },
+    {
+        "Course": "Programming in Python",
+        "Course code": "CST362",
+        "Sem code": "D-Elective1",
+        "lecture/week": 2,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Shiny B(lecture)",
+            "Shiny B(tutorial)"
+        ],
+        "batches": "S6C",
+        "lecturers": [
+            {
+                "teacher_name": "Shiny B",
+                "teacher_code": "CSAA06n"
+            },
+            {
+                "teacher_name": "Shiny B",
+                "teacher_code": "CSAA06n"
+            }
+        ]
+    },
+    {
+        "Course": "Programming in Python",
+        "Course code": "CST362",
+        "Sem code": "D-Elective1",
+        "lecture/week": 2,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Shyama Das(lecture)",
+            "Shyama Das(tutorial)"
+        ],
+        "batches": "S6D",
+        "lecturers": [
+            {
+                "teacher_name": "Shyama Das",
+                "teacher_code": "CSPP05f"
+            },
+            {
+                "teacher_name": "Shyama Das",
+                "teacher_code": "CSPP05f"
+            }
+        ]
+    },
+    {
+        "Course": "Industrial Economics & Foreign Trade",
+        "Course code": "HUT300",
+        "Sem code": "E",
+        "lecture/week": 3,
+        "tutorial/week": 0,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "OD(lecture)"
+        ],
+        "batches": "S6C",
+        "lecturers": [
+            {
+                "teacher_name": "OD",
+                "teacher_code": null
+            }
+        ]
+    },
+    {
+        "Course": "Industrial Economics & Foreign Trade",
+        "Course code": "HUT300",
+        "Sem code": "E",
+        "lecture/week": 3,
+        "tutorial/week": 0,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "OD(lecture)"
+        ],
+        "batches": "S6D",
+        "lecturers": [
+            {
+                "teacher_name": "OD",
+                "teacher_code": null
+            }
+        ]
+    },
+    {
+        "Course": "Industrial Economics & Foreign Trade",
+        "Course code": "HUT300",
+        "Sem code": "E",
+        "lecture/week": 3,
+        "tutorial/week": 0,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "OD(lecture)"
+        ],
+        "batches": "S6D",
+        "lecturers": [
+            {
+                "teacher_name": "OD",
+                "teacher_code": null
+            }
+        ]
+    },
+    {
+        "Course": "Comprehensive Course Work",
+        "Course code": "CST308",
+        "Sem code": "F",
+        "lecture/week": 1,
+        "tutorial/week": 0,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Alka Vijay(lecture)",
+            "Rosy K Philp(lecture)",
+            "Nasseena N(lecture)"
+        ],
+        "batches": "S6C",
+        "lecturers": [
+            {
+                "teacher_name": "Alka Vijay",
+                "teacher_code": "CSAA04n"
+            },
+            {
+                "teacher_name": "Rosy K Philp",
+                "teacher_code": "CSAA10n"
+            },
+            {
+                "teacher_name": "Nasseena N",
+                "teacher_code": "CSAA18n"
+            }
+        ]
+    },
+    {
+        "Course": "Comprehensive Course Work",
+        "Course code": "CST308",
+        "Sem code": "F",
+        "lecture/week": 1,
+        "tutorial/week": 0,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Angel Thankam Thomas(lecture)",
+            "Betty James(lecture)",
+            "Sreelekshmi K R(lecture)"
+        ],
+        "batches": "S6D",
+        "lecturers": [
+            {
+                "teacher_name": "Angel Thankam Thomas",
+                "teacher_code": "CSAA09n"
+            },
+            {
+                "teacher_name": "Betty James",
+                "teacher_code": "CSAA16n"
+            },
+            {
+                "teacher_name": "Sreelekshmi K R",
+                "teacher_code": "CSAA07n"
+            }
+        ]
+    },
+    {
+        "Course": "Networking Lab",
+        "Course code": "CSL332",
+        "Sem code": "S",
+        "lecture/week": 0,
+        "tutorial/week": 0,
+        "practical/week": 3,
+        "allotted lecturers": [
+            "Betty James(practical)",
+            "Ameena A(practical)",
+            "Anjitha P(practical)"
+        ],
+        "batches": "S6C",
+        "lecturers": [
+            {
+                "teacher_name": "Betty James",
+                "teacher_code": "CSAA16n"
+            },
+            {
+                "teacher_name": "Ameena A",
+                "teacher_code": "CSAA02n"
+            },
+            {
+                "teacher_name": "Anjitha P",
+                "teacher_code": "CSAA20n"
+            }
+        ]
+    },
+    {
+        "Course": "Networking Lab",
+        "Course code": "CSL332",
+        "Sem code": "S",
+        "lecture/week": 0,
+        "tutorial/week": 0,
+        "practical/week": 3,
+        "allotted lecturers": [
+            "Nasseena N(practical)",
+            "Neethu Treesa Jacob(practical)",
+            "Anjitha P(practical)"
+        ],
+        "batches": "S6D",
+        "lecturers": [
+            {
+                "teacher_name": "Nasseena N",
+                "teacher_code": "CSAA18n"
+            },
+            {
+                "teacher_name": "Neethu Treesa Jacob",
+                "teacher_code": "CSAA21n"
+            },
+            {
+                "teacher_name": "Anjitha P",
+                "teacher_code": "CSAA20n"
+            }
+        ]
+    },
+    {
+        "Course": "Mini Project",
+        "Course code": "CSD334",
+        "Sem code": "T",
+        "lecture/week": 0,
+        "tutorial/week": 0,
+        "practical/week": 3,
+        "allotted lecturers": [
+            "Syeatha Merlin Thampy(practical)",
+            "Sheerna Thampi(practical)"
+        ],
+        "batches": "S6C",
+        "lecturers": [
+            {
+                "teacher_name": "Syeatha Merlin Thampy",
+                "teacher_code": "CSAA22n"
+            },
+            {
+                "teacher_name": "Sheerna Thampi",
+                "teacher_code": "CSAA23n"
+            }
+        ]
+    },
+    {
+        "Course": "Mini Project",
+        "Course code": "CSD334",
+        "Sem code": "T",
+        "lecture/week": 0,
+        "tutorial/week": 0,
+        "practical/week": 3,
+        "allotted lecturers": [
+            "Sabhana Mol S(practical)",
+            "Shiny B(practical)",
+            "Rosy K Philp(practical)"
+        ],
+        "batches": "S6D",
+        "lecturers": [
+            {
+                "teacher_name": "Sabhana Mol S",
+                "teacher_code": "CSAA12n"
+            },
+            {
+                "teacher_name": "Shiny B",
+                "teacher_code": "CSAA06n"
+            },
+            {
+                "teacher_name": "Rosy K Philp",
+                "teacher_code": "CSAA10n"
+            }
+        ]
+    },
+    {
+        "Course": "Concepts in Deep Learning",
+        "Course code": "CST384",
+        "Sem code": "Minor",
+        "lecture/week": 3,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Alka Vijay(lecture)",
+            "Alka Vijay(tutorial)"
+        ],
+        "batches": "S6C",
+        "lecturers": [
+            {
+                "teacher_name": "Alka Vijay",
+                "teacher_code": "CSAA04n"
+            },
+            {
+                "teacher_name": "Alka Vijay",
+                "teacher_code": "CSAA04n"
+            }
+        ]
+    },
+    {
+        "Course": "Network Security",
+        "Course code": "CST394",
+        "Sem code": "Honours",
+        "lecture/week": 3,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Neethu Treesa Jacob(lecture)",
+            "Neethu Treesa Jacob(tutorial)"
+        ],
+        "batches": "S6C",
+        "lecturers": [
+            {
+                "teacher_name": "Neethu Treesa Jacob",
+                "teacher_code": "CSAA21n"
+            },
+            {
+                "teacher_name": "Neethu Treesa Jacob",
+                "teacher_code": "CSAA21n"
+            }
+        ]
+    },
+    {
+        "Course": "Advanced Topics in Machine Learning",
+        "Course code": "CST396",
+        "Sem code": "Honours",
+        "lecture/week": 3,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Angel Thankam Thomas(lecture)",
+            "Angel Thankam Thomas(tutorial)"
+        ],
+        "batches": "S6C",
+        "lecturers": [
+            {
+                "teacher_name": "Angel Thankam Thomas",
+                "teacher_code": "CSAA09n"
+            },
+            {
+                "teacher_name": "Angel Thankam Thomas",
+                "teacher_code": "CSAA09n"
+            }
+        ]
+    },
+    {
+        "Course": "Distributed Computing",
+        "Course code": "CST402",
+        "Sem code": "A",
+        "lecture/week": 2,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Chinchu M Pillai(lecture)",
+            "Chinchu M Pillai(practical)"
+        ],
+        "batches": "S8C",
+        "lecturers": [
+            {
+                "teacher_name": "Chinchu M Pillai",
+                "teacher_code": "CSAA24n"
+            },
+            {
+                "teacher_name": "Chinchu M Pillai",
+                "teacher_code": "CSAA24n"
+            }
+        ]
+    },
+    {
+        "Course": "Distributed Computing",
+        "Course code": "CST402",
+        "Sem code": "A",
+        "lecture/week": 2,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Chinchu M Pillai(lecture)",
+            "Chinchu M Pillai(practical)"
+        ],
+        "batches": "S8D",
+        "lecturers": [
+            {
+                "teacher_name": "Chinchu M Pillai",
+                "teacher_code": "CSAA24n"
+            },
+            {
+                "teacher_name": "Chinchu M Pillai",
+                "teacher_code": "CSAA24n"
+            }
+        ]
+    },
+    {
+        "Course": "Deep Learning",
+        "Course code": "CST414",
+        "Sem code": "B-Elective3",
+        "lecture/week": 2,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Sushitha Susan Jacob(lecture)",
+            "Sushitha Susan Jacob(tutorial)"
+        ],
+        "batches": "S8C",
+        "lecturers": [
+            {
+                "teacher_name": "Sushitha Susan Jacob",
+                "teacher_code": "CSAA25n"
+            },
+            {
+                "teacher_name": "Sushitha Susan Jacob",
+                "teacher_code": "CSAA25n"
+            }
+        ]
+    },
+    {
+        "Course": "Soft Computing",
+        "Course code": "CST444",
+        "Sem code": "B-Elective3",
+        "lecture/week": 2,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Neethu Treesa Jacob(lecture)",
+            "Neethu Treesa Jacob(tutorial)"
+        ],
+        "batches": "S8C",
+        "lecturers": [
+            {
+                "teacher_name": "Neethu Treesa Jacob",
+                "teacher_code": "CSAA21n"
+            },
+            {
+                "teacher_name": "Neethu Treesa Jacob",
+                "teacher_code": "CSAA21n"
+            }
+        ]
+    },
+    {
+        "Course": "Soft Computing",
+        "Course code": "CST444",
+        "Sem code": "B-Elective3",
+        "lecture/week": 2,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Neethu Treesa Jacob(lecture)",
+            "Neethu Treesa Jacob(tutorial)"
+        ],
+        "batches": "S8D",
+        "lecturers": [
+            {
+                "teacher_name": "Neethu Treesa Jacob",
+                "teacher_code": "CSAA21n"
+            },
+            {
+                "teacher_name": "Neethu Treesa Jacob",
+                "teacher_code": "CSAA21n"
+            }
+        ]
+    },
+    {
+        "Course": "Data Compression Techniques",
+        "Course code": "CST446",
+        "Sem code": "C-Elective4",
+        "lecture/week": 2,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Anjitha P(lecture)",
+            "Anjitha P(tutorial)"
+        ],
+        "batches": "S8C",
+        "lecturers": [
+            {
+                "teacher_name": "Anjitha P",
+                "teacher_code": "CSAA20n"
+            },
+            {
+                "teacher_name": "Anjitha P",
+                "teacher_code": "CSAA20n"
+            }
+        ]
+    },
+    {
+        "Course": "Data Compression Techniques",
+        "Course code": "CST446",
+        "Sem code": "C-Elective4",
+        "lecture/week": 2,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Syeatha Merlin Thampy(lecture)",
+            "Syeatha Merlin Thampy(tutorial)"
+        ],
+        "batches": "S8D",
+        "lecturers": [
+            {
+                "teacher_name": "Syeatha Merlin Thampy",
+                "teacher_code": "CSAA22n"
+            },
+            {
+                "teacher_name": "Syeatha Merlin Thampy",
+                "teacher_code": "CSAA22n"
+            }
+        ]
+    },
+    {
+        "Course": "Mobile Computing",
+        "Course code": "CST476",
+        "Sem code": "C-Elective4",
+        "lecture/week": 2,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Ameena A(lecture)",
+            "Ameena A(tutorial)"
+        ],
+        "batches": "S8C",
+        "lecturers": [
+            {
+                "teacher_name": "Ameena A",
+                "teacher_code": "CSAA02n"
+            },
+            {
+                "teacher_name": "Ameena A",
+                "teacher_code": "CSAA02n"
+            }
+        ]
+    },
+    {
+        "Course": "Blockchain Technologies",
+        "Course code": "CST428",
+        "Sem code": "D-Elective5",
+        "lecture/week": 2,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Vishnu S Kumar(Lecture)",
+            "Vishnu S Kumar(tutorial)"
+        ],
+        "batches": "S8C",
+        "lecturers": [
+            {
+                "teacher_name": "Vishnu S Kumar",
+                "teacher_code": "CSAA14n"
+            },
+            {
+                "teacher_name": "Vishnu S Kumar",
+                "teacher_code": "CSAA14n"
+            }
+        ]
+    },
+    {
+        "Course": "Blockchain Technologies",
+        "Course code": "CST428",
+        "Sem code": "D-Elective5",
+        "lecture/week": 2,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Vishnu S Kumar(Lecture)",
+            "Vishnu S Kumar(tutorial)"
+        ],
+        "batches": "S8D",
+        "lecturers": [
+            {
+                "teacher_name": "Vishnu S Kumar",
+                "teacher_code": "CSAA14n"
+            },
+            {
+                "teacher_name": "Vishnu S Kumar",
+                "teacher_code": "CSAA14n"
+            }
+        ]
+    },
+    {
+        "Course": "Internet Of Things",
+        "Course code": "CST448",
+        "Sem code": "D-Elective5",
+        "lecture/week": 2,
+        "tutorial/week": 1,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Shiny B(Lecture)",
+            "Shiny B(tutorial)"
+        ],
+        "batches": "S8C",
+        "lecturers": [
+            {
+                "teacher_name": "Shiny B",
+                "teacher_code": "CSAA06n"
+            },
+            {
+                "teacher_name": "Shiny B",
+                "teacher_code": "CSAA06n"
+            }
+        ]
+    },
+    {
+        "Course": "Comprehensive Course Viva",
+        "Course code": "CST404",
+        "Sem code": "T",
+        "lecture/week": 1,
+        "tutorial/week": 0,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Sreelekshmi K R (lecture)",
+            "Neethu Treesa Jacob(lecture)",
+            "Gopakumar G(lecture)"
+        ],
+        "batches": "S8C",
+        "lecturers": [
+            {
+                "teacher_name": "Sreelekshmi K R ",
+                "teacher_code": null
+            },
+            {
+                "teacher_name": "Neethu Treesa Jacob",
+                "teacher_code": "CSAA21n"
+            },
+            {
+                "teacher_name": "Gopakumar G",
+                "teacher_code": "CSAP01n"
+            }
+        ]
+    },
+    {
+        "Course": "Comprehensive Course Viva",
+        "Course code": "CST404",
+        "Sem code": "T",
+        "lecture/week": 1,
+        "tutorial/week": 0,
+        "practical/week": 0,
+        "allotted lecturers": [
+            "Ameena A(lecture)",
+            "Betty James(lecture)",
+            "Alka Vijay(lecture)"
+        ],
+        "batches": "S8D",
+        "lecturers": [
+            {
+                "teacher_name": "Ameena A",
+                "teacher_code": "CSAA02n"
+            },
+            {
+                "teacher_name": "Betty James",
+                "teacher_code": "CSAA16n"
+            },
+            {
+                "teacher_name": "Alka Vijay",
+                "teacher_code": "CSAA04n"
+            }
+        ]
+    },
+    {
+        "Course": "Project Phase II",
+        "Course code": "CSD416",
+        "Sem code": "U",
+        "lecture/week": 0,
+        "tutorial/week": 0,
+        "practical/week": 12,
+        "allotted lecturers": [
+            "Chinchu M Pillai(practical)",
+            "Ahammed Siraj K K(practical)",
+            "Sulaja Sanal(practical)"
+        ],
+        "batches": "S8C",
+        "lecturers": [
+            {
+                "teacher_name": "Chinchu M Pillai",
+                "teacher_code": "CSAA24n"
+            },
+            {
+                "teacher_name": "Ahammed Siraj K K",
+                "teacher_code": "CSAP26n"
+            },
+            {
+                "teacher_name": "Sulaja Sanal",
+                "teacher_code": "CSAA17n"
+            }
+        ]
+    },
+    {
+        "Course": "Project Phase II",
+        "Course code": "CSD416",
+        "Sem code": "U",
+        "lecture/week": 0,
+        "tutorial/week": 0,
+        "practical/week": 12,
+        "allotted lecturers": [
+            "Leya G(practical)",
+            "Ahammed Siraj K K(practical)",
+            "Vishnu S Kumar(practical)"
+        ],
+        "batches": "S8D",
+        "lecturers": [
+            {
+                "teacher_name": "Leya G",
+                "teacher_code": "CSAA15n"
+            },
+            {
+                "teacher_name": "Ahammed Siraj K K",
+                "teacher_code": "CSAP26n"
+            },
+            {
+                "teacher_name": "Vishnu S Kumar",
+                "teacher_code": "CSAA14n"
+            }
+        ]
+    }
+]
