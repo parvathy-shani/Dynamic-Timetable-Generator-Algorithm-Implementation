@@ -7,7 +7,8 @@ Welcome to the exploratory repository for the Dynamic Timetable Generator. This 
 2. [Key Methods Explored](#key-methods-explored)
 3. [Installation](#installation)
 4. [Results and Learnings](#results-and-learnings)
-5. [Contributing](#contributing)
+5. [References](#References)
+6. [Contributing](#contributing)
 
 ## Project Overview
 
@@ -40,6 +41,13 @@ To set up the environment for exploring these genetic algorithms, follow these s
 ### Multi-Depth Genetic Algorithm (MDGA)
 - **Findings**: Improved results with multi-stage refinements, better handling of complex constraints.
 - **Limitations**: Increased computational complexity and longer runtime.
+
+## References
+
+- (references/A Novel Educational Timetabling Solution through.pdf)
+- (references/UCTP.pdf)
+- (references/UCTP(1).pdf)
+
 
 ## Contributing
 
