@@ -6,9 +6,8 @@ Welcome to the exploratory repository for the Dynamic Timetable Generator. This 
 1. [Project Overview](#project-overview)
 2. [Key Methods Explored](#key-methods-explored)
 3. [Installation](#installation)
-4. [Configuration](#configuration)
-5. [Results and Learnings](#results-and-learnings)
-6. [Contributing](#contributing)
+4. [Results and Learnings](#results-and-learnings)
+5. [Contributing](#contributing)
 
 ## Project Overview
 
@@ -35,17 +34,6 @@ To set up the environment for exploring these genetic algorithms, follow these s
    ```bash
    pip install -r requirements.txt
    ```
-
-## Configuration
-
-The project uses environment variables for configuration. Create a `.env` file in the root directory and add the following variables:
-
-```
-DATABASE_URL=your_database_url
-SECRET_KEY=your_secret_key
-DEBUG=True
-ALLOWED_HOSTS=localhost, 127.0.0.1
-```
 
 ## Results and Learnings
 
